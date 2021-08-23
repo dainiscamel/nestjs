@@ -5,7 +5,9 @@
   - NestJS
 
 ## NestJS ?
-  - node.js 의 프레임워크로 Express  위에서 **움직인다**.
+  - node.js 의 프레임워크로 Express  위에서 움직인다.
+  - Nest는 안정성있고 확장성 높은 애플리케이션 아키텍처를 제공하며 테스트가 가능하고 유지 관리가  쉬운 애플리케이션을 작성 할 수 
+    있다.
 
 ## Architecture of NESTJS
   1. app : 앱 구동
